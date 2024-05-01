@@ -1,3 +1,9 @@
+
+remote_theme: pages-themes/slate@v0.2.0
+
+title: [Sheikh Islam - Digital Media Student]
+description: [A webpage to organize GitHub hosted game projects]
+
 Some of my Projects:
 
 1. Do or Die, a third person platforming game: https://github.com/SheikhIslamD/Do_or_Die
