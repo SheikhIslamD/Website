@@ -4,11 +4,11 @@ remote_theme: pages-themes/slate@v0.2.0
 title: [Sheikh Islam - Digital Media Student]
 description: [A webpage to organize GitHub hosted game projects]
 
-"Some of my Projects:"
+"Some of my Projects"
 
 No: 1
 Name: "Do or Die, a third person platforming game: https://github.com/SheikhIslamD/Do_or_Die"
-"For this game, I contributed to several scripts that are used throughout the game:"
+"For this game, I contributed to several scripts that are used throughout the game"
 "-DiceProjectile script for the character's main ability, "
 "-AudioManager for adding sounds to the game, "
 "-ScoreTracker to allow the player to carry a score for winning, "
