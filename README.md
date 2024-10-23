@@ -1,4 +1,4 @@
-Some of my Projects
+Some of my projects
 
 1. Do or Die, a third person platforming game:
 https://github.com/SheikhIslamD/Do_or_Die
