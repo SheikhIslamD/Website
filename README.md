@@ -15,9 +15,11 @@ For this game, I contributed to several scripts for essential game features
 -Partial contributions to things like LockIn for the lockon ability, PearlyGates for a level bugfix, and PlayerMovement for HUD display variables.
 
 
+
  Line of Sight | Short horror game based on SCP: https://github.com/CBowneUCF/GP_P2G3_Hallway
  
 I contributed more to the in-engine features of this project overall by designing and building the level and placing in assets, resulting in working minimally with scripts. I also mainly oversaw GitHub merges, pull requests, and related tasks.
+
 
 
  Knight-Out | 2D Brick-breaker game inspired by Breakout: https://github.com/SheikhIslamD/Classic-Game-Challenge
